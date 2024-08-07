@@ -18,3 +18,8 @@ Se você deseja contribuir para o desenvolvimento do meu site de portfólio, sig
 4. Envie um pull request para que eu possa revisar suas alterações.
 
 Agradeço antecipadamente por qualquer contribuição e espero que você goste do meu site de portfólio!
+
+
+Próximas atualizações:
+- Buscar API de blog para o container de Mídias
+    - [Tabnews](https://www.tabnews.com.br/filipedeschamps/tentando-construir-um-pedaco-de-internet-mais-massa)
